@@ -18,3 +18,8 @@ print("Your age is", age)
 age = input("Enter your age: ")
 
 print(type(age))
+height = 5.8
+is_student = True
+
+print(height)
+print(is_student)
