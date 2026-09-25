@@ -1,22 +1,9 @@
-number = 10
+marks = 45
 
-if number % 2 == 0:
-    print("Even number")
+if marks >= 40:
+    print("Pass")
 else:
-    print("Odd number")
-
-
-
-
-    number = -5
-
-if number > 0:
-    print("Positive number")
-elif number < 0:
-    print("Negative number")
-else:
-    print("Zero")
-
+    print("Fail")
    
     
 
