@@ -1,37 +1,71 @@
-# AI-ML
+# Python and Artificial Intelligence & Machine Learning
 
-This repository now includes a minimal Python project scaffold for learning and quick experiments.
+Welcome to my AI-ML learning repository! This repository contains my Python practice programs and learning exercises as I build my programming and machine learning skills.
 
-## Project structure
+## 🎯 Objectives
 
-- `src/basic_project/` contains the application package
-- `tests/` contains pytest checks
-- `Makefile` provides common developer commands
+- Strengthen Python programming fundamentals.
+- Practice coding through separate, easy-to-understand files.
+- Learn data analysis and machine learning concepts.
+- Build practical projects for Software Developer and AI/ML opportunities.
 
-## Quick start
+## 📚 Topics
 
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-make test
-make run
+### Python Fundamentals
+- Variables and data types
+- Operators and expressions
+- Conditional statements
+- Loops
+- Functions
+- Lists, tuples, dictionaries, and sets
+
+### AI/ML Learning Path
+- NumPy and pandas
+- Data analysis and visualization
+- Machine learning fundamentals
+- Model training and evaluation
+- Practical AI/ML projects
+
+*Topics will be updated as new exercises and projects are added.*
+
+## 📁 Repository Structure
+
+```text
+AI-ML/
+├── 01-Python-Basics/
+│   ├── Python practice files
+│   └── ...
+└── README.md
 ```
 
-On Windows PowerShell, use:
+## 💻 How to Run
 
-```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-make test
-python -m basic_project
-```
+1. Install Python 3.
+2. Clone this repository:
 
-## Available commands
+   ```bash
+   git clone https://github.com/Rakesh-star1234/AI-ML.git
+   ```
 
-- `make install` — create the virtual environment and install dependencies
-- `make test` — run the test suite
-- `make lint` — run Ruff lint checks
-- `make run` — execute the project entry point
-- `make clean` — remove build and cache artifacts
+3. Open the project folder in VS Code.
+4. Run a Python file:
+
+   ```bash
+   python filename.py
+   ```
+
+   On Windows, you can also try `py filename.py`.
+
+## 🚀 Current Goals
+
+- Practice Python regularly.
+- Write clean, readable, well-commented code.
+- Learn core machine learning concepts.
+- Develop practical projects and document their results.
+
+## 👨‍💻 Author
+
+**Rakesh Kumar**
+
+- GitHub: [Rakesh-star1234](https://github.com/Rakesh-star1234)
+- Portfolio: [Visit my portfolio](https://rakesh-star1234.github.io/portfolio/)
