@@ -53,6 +53,35 @@ I'm Rakesh Kumar, an aspiring software developer interested in C++, DSA, Web Dev
 - Portfolio: https://rakesh-star1234.github.io/portfolio/
 
 ---
+## 🗂️ Repository Organization
+
+I organize my practice work into separate Python files and folders to make learning progress easier to track and review.
+
+- **Python Practice:** Programs covering fundamental Python concepts.
+- **Data Handling:** Practice with data structures and introductory data analysis.
+- **Machine Learning:** Learning core concepts and exploring practical examples.
+- **Projects:** A space for future hands-on AI/ML projects.
+
+## 🧠 Skills I'm Developing
+
+- Writing readable Python code.
+- Working with lists, dictionaries, functions, and other Python fundamentals.
+- Exploring NumPy and Pandas for data handling.
+- Understanding Machine Learning concepts and workflows.
+- Using Git and GitHub to track and document my learning.
+
+## 🚀 Future Learning Goals
+
+- Complete Python fundamentals and practice exercises.
+- Work with datasets using NumPy and Pandas.
+- Explore data visualization and introductory Machine Learning.
+- Build small, practical AI/ML projects.
+- Document projects with clear explanations and usage instructions.
+
+## 📌 Learning Philosophy
+
+I believe in learning by doing. I focus on understanding concepts, practicing regularly, and improving my code step by step rather than simply memorizing solutions.
+
 
 ⭐ Thanks for visiting my repository!
 
